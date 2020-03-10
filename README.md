@@ -1,6 +1,30 @@
 # nptel_programs
 c programs
+week 5 questions
 
+Program 1
+Q.Write a C program to check whether a given number (N) is a perfect number or not?
+
+Program 2
+Q.Write a C program to count total number of digits of an Integer number (N).
+
+Program 3
+Q.Write a C program to check whether the given number(N) can be expressed as Power of Two (2) or not.
+For example 8 can be expressed as 2^3. 
+
+Program 4
+Q.Write a C program to find sum of following series where the value of N is taken as input
+ 1+ 1/2 + 1/3 + 1/4 + 1/5 + .. 1/N
+
+Program 5
+Q.Write a C program to print the following Pyramid pattern upto Nth row. Where N (number of rows to be printed) is taken as input.
+
+
+*****
+****
+***
+**
+*
 
 Week 6 questions
 
