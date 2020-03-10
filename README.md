@@ -1,6 +1,7 @@
 # nptel_programs
 c programs
-week 5 questions
+
+Week 5 questions
 
 Program 1
 Q.Write a C program to check whether a given number (N) is a perfect number or not?
