@@ -21,11 +21,11 @@ Program 5
 Q.Write a C program to print the following Pyramid pattern upto Nth row. Where N (number of rows to be printed) is taken as input.
 
 
-*****
+"*****
 ****
 ***
 **
-*
+*"
 
 Week 6 questions
 
