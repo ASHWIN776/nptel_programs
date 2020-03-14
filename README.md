@@ -21,11 +21,7 @@ Program 5
 Q.Write a C program to print the following Pyramid pattern upto Nth row. Where N (number of rows to be printed) is taken as input.
 
 
-"*****
-****
-***
-**
-*"
+**********
 
 Week 6 questions
 
@@ -49,6 +45,7 @@ Q.Write a C Program to delete duplicate elements from an array of integers.
 Program 5
 Q.C Program to delete an element from a specified location of an Array starting from array[0] as the 1st position, array[1] as second position and so on. 
 
+***********
 
 week 7 programs
 
@@ -98,3 +95,5 @@ For example the output of a given matrix
 Program 5
 Q.Write a C program to print Largest and Smallest Word from a given sentence. If there are two or more words of same length then the first one is considered. 
 Here single letter such as "I" , "a" is considered as a word. 
+
+*********
