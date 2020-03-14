@@ -48,3 +48,53 @@ Q.Write a C Program to delete duplicate elements from an array of integers.
 
 Program 5
 Q.C Program to delete an element from a specified location of an Array starting from array[0] as the 1st position, array[1] as second position and so on. 
+
+
+week 7 programs
+
+Program 1
+Q.Write a C Program to Count Number of Uppercase and Lowercase Letters in a given string. The string may be a word or a sentence.
+
+Program 2
+Q.Write a C program to find the sum of all elements of each row of a matrix.
+
+   Example: For a matrix  4 5 6
+
+                                        6 7 3
+
+                                        1 2 3
+
+  The output will be 
+
+  15
+
+  16
+
+   6
+
+Program 3
+Q.Write a C program to find subtraction of two matrices i.e. matrix_A - matrix_B=matrix_C.
+
+ If the given martix are 
+
+ 2 3 5     and  1 5 2    Then the output will be  1 -2 3
+
+ 4 5 6             2 3 4                                           2 2 2
+
+ 6 5 7             3 3 4                                           3 2 3
+
+ The elements of the output matrix are separated by one blank space 
+
+Program 4
+Q.Write a C program to print lower triangle of a square matrix.
+For example the output of a given matrix 
+
+2 3 4     will be       2 0 0
+
+5 6 7                      5 6 0
+
+4 5 6                      4 5 6
+
+Program 5
+Q.Write a C program to print Largest and Smallest Word from a given sentence. If there are two or more words of same length then the first one is considered. 
+Here single letter such as "I" , "a" is considered as a word. 
